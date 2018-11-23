@@ -1,4 +1,4 @@
 # hello,world!
-First repository of max.
-Im max!
-I coding.
+First repository of max.\n
+Im max!\n
+I coding.\n
