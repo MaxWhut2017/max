@@ -10,7 +10,7 @@
 本项目所有代码仅供学习交流使用，严禁用于商业盈利目的(这种东西应该也没有商业价值),或用于魔改后应付实验(手动滑稽)。
 
 Till now,this project contains 4 experiments,they are:
-1,Implementing the addition and multiplication by linked list.
+1,Implementing the polynomial addition and multiplication by linked list.
 2,Postfix expression calculator supporting arithmetic and brackets.
 3,Huffman encoding and decoding.
 4,AVL searching tree,which supporting dynamic deletion and insertion.
